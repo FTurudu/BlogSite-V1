@@ -1,4 +1,4 @@
-# This is a Beta Blog Site under development. It was written and made by Fatih Türdü. 
+# This is a Beta Blog Site under development. It was written and made by Fatih Türüdü. 
 # I have presented it to you openly for the development of the site and the development of designs.
 # Please, if you want to publish the site after you have developed it, I would appreciate it if you indicate that you received it from me.
 
