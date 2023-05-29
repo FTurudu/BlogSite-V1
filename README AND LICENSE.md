@@ -1,10 +1,10 @@
-# Bu bir geliştirmesi devam eden Beta Blog Sitesidir.
-# Sitenin gelişmesi ve tasarımların gelişmesi için açık olarak sizlere sundum.
-# Lütfen siteyi geliştirdikten sonra yayınlamak isterseniz benden aldığınızı da belirtirseniz sevinirim.
+# Bu bir geliÃ¾tirmesi devam eden Beta Blog Sitesidir Fatih TÃ¼rÃ¼dÃ¼ tarafÄ±ndan yazÄ±lmÄ±ÅŸ ve bu hale getirilmiÅŸtir.  
+# Sitenin geliÃ¾mesi ve tasarÃ½mlarÃ½n geliÃ¾mesi iÃ§in aÃ§Ã½k olarak sizlere sundum.
+# LÃ¼tfen siteyi geliÃ¾tirdikten sonra yayÃ½nlamak isterseniz benden aldÃ½Ã°Ã½nÃ½zÃ½ da belirtirseniz sevinirim.
 
 MIT License
 
-Copyright (c) 2023 Fatih TÜRÜDÜ
+Copyright (c) 2023 Fatih TÃœRÃœDÃœ
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
